@@ -1,6 +1,6 @@
 # GazeGuard Extension
 
-The GazeGuard Extension is a tool designed to hide human bodies from images across all tabs. It utilizes [YOLOv8](https://github.com/ultralytics/ultralytics) and [YOLOv5](https://github.com/ultralytics/yolov5) models to achieve this functionality.
+The GazeGuard Extension is a tool designed to hide human bodies from images across all tabs.by using [YOLOv8](https://github.com/ultralytics/ultralytics) and [YOLOv5](https://github.com/ultralytics/yolov5) models to make segmentation.
 
 ## Features
 - Automatically hides human bodies from images in all tabs.
